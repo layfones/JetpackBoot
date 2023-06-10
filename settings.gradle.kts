@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "JetpackBoot"
-include ':app'
+include(":app")
